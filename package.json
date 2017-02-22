@@ -1,0 +1,23 @@
+{
+  "name": "how_to_debug_nodejs_server_demo",
+  "version": "1.0.0",
+  "description": "Project to show how a nodejs server can be debugged",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.wdf.sap.corp/d036271/how_to_debug_nodejs_server_demo"
+  },
+  "keywords": [
+    "nodejs express server debug"
+  ],
+  "author": "Henning Dudat",
+  "license": "ISC",
+  "homepage": "https://github.wdf.sap.corp/d036271",
+  "dependencies": {
+    "express": "^4.13.3"
+  }
+}
